@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "/Users/hr/Code/mcp-demo/rw-filesystem/venv/bin/python",
+            "args": [
+                "/Users/hr/Code/mcp-demo/rw-filesystem/server.py"
+            ]
+        }
+    }
+}
